@@ -1,4 +1,4 @@
-o---
+---
 
 # 📚 Book Management App
 
